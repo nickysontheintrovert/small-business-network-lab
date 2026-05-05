@@ -18,6 +18,10 @@
 - The router uses subinterfaces to route traffic between VLANs
 - Devices use default gateways to communicate across networks
 
+## ⚙️ Configuration Files
+
+Router and switch configurations can be found in the `/configs` folder.
+
 ## 📌 Overview
 This project simulates a small business network with three departments:
 - Sales
