@@ -1,5 +1,8 @@
 # Small Business Network Lab
 
+## 🌐 Network Topology
+![Topology](screenshots/topology.png)
+
 ## 📌 Overview
 This project simulates a small business network with three departments:
 - Sales
